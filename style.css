@@ -1,0 +1,183 @@
+@media (max-width: 767px) {
+    body {
+        background-color: #f0f0f0; 
+    }
+    
+   
+}
+
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    body {
+        background-color: #e0e0e0; 
+    
+    }  
+    
+}
+
+
+@media (min-width: 1025px) {
+    body {
+        background-color: #fffff0;
+    }
+    
+     
+}
+
+*{
+    margin :0;
+    padding:0;
+    max-height: 600px;
+    html {
+        scroll-behavior: smooth;
+    }
+    p{
+    font-size: 20px;
+ } 
+}
+
+body{
+    background-color:rgb(230, 213, 213,0.459);
+    scroll-behavior: smooth;
+}
+
+.joy ul{
+    display:flex ;
+    list-style: none;
+    text-align: center;
+    gap: 80px;
+    justify-content: center;
+    margin-top: 20px;
+}
+.joy ul a{
+    color: green;
+    text-decoration: none;
+    font-size: 30px;
+    gap: 70px;
+
+}
+.mic{
+    background-color: rgb(166, 243, 172);
+    height: 100px;
+}
+
+#first {
+    display: flex;
+    max-width:800px;
+    gap: 5px;
+   ;
+}
+
+.nanny img{
+    height: 350px; ;
+    width: 250px;
+
+}
+.mat img{
+    height: 350px; ;
+    width: 250px;
+}
+.bit img{
+    height: 350px; ;
+    width: 250px;
+}
+
+.mat,.nanny,.bit{
+      border: 70px solid white;
+      border-radius:60px;
+      margin-left: 175px;
+      margin: left 175px; ;
+      width: auto;
+      height: 600px;
+      background-color: white;
+}
+.se{
+    margin-top: 170px;
+    margin-bottom: 0px;
+}
+#second {
+    display: flex;
+    max-width: 300px;
+    gap: 5px;
+   
+}  
+.blu img{
+    height: 350px; 
+    width: 250px;
+
+}
+.my img{
+    height: 350px; 
+    width: 250px;
+}
+.bil img{
+    height: 350px; 
+    width: 250px;
+}
+
+.blu,.my,.bil{
+      border: 70px solid white;
+      border-radius:60px;
+      margin-left: 175px;
+      margin: left 175px; 
+      margin-top: 200px;
+      width: auto;
+      height: 600px;
+      background-color: white;
+}
+.ti{
+    margin-top: 370px;
+    margin-bottom: 0px;
+}
+   
+.ti{
+    margin-top: 400px;
+    margin-bottom: -250px;
+}
+   
+#third {
+    display: flex;
+    max-width: 300px;
+    gap: 5px;
+   
+}  
+.emand img{
+    height: 350px; 
+    width: 250px;
+
+}
+.anan img{
+    height: 350px; 
+    width: 250px;
+}
+.fasi img{
+    height: 350px; 
+    width: 250x;
+}
+
+.emanda,.anan,.fasi{
+      border: 70px solid white;
+      border-radius:60px;
+      margin-left: 175px;
+      margin: left 175px; 
+      margin-top: 400px;
+      width: auto;
+      height: 600px;
+      background-color: white;
+}
+.third,.lindo{
+    gap: 100px;
+    margin-top: 800px;
+}
+.lindo{
+    background-color: green;
+    color: white;
+    text-align: center;
+    height: 100px;
+    padding-top: 40px;
+}
+   
+.price{
+color: green;
+}
+
